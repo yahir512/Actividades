@@ -1,6 +1,10 @@
 //
 // imports
+<<<<<<< HEAD:3p/1linkedlist/1/list4stu.js
 // Node4stu5es.js
+=======
+// Node (Node4stu5es.js)
+>>>>>>> origin/master:2p/5linked/1/list4stu.js
 //
 
 
